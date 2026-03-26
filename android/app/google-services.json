@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831202062037",
+    "project_id": "itpm-ac334",
+    "storage_bucket": "itpm-ac334.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831202062037:android:9a29d7d450f7706d157c5c",
+        "android_client_info": {
+          "package_name": "com.example.peer_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXwDIzKAEJDS6fRO1D6F2h4uxPMMjnl1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
