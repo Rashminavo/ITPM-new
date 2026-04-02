@@ -1,6 +1,6 @@
 {
-    "name": "peer_buddy",
-    "short_name": "peer_buddy",
+    "name": "ragsafe_new",
+    "short_name": "ragsafe_new",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
